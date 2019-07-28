@@ -1,6 +1,6 @@
 # Excel-to-HWP-Converter (macro)
 
-#### Project Name : intellij_macro  
+#### Project Name : intellij_macro  / License : Apache 2.0
 
 
   
