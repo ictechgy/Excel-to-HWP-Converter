@@ -1,7 +1,7 @@
 # Excel-to-HWP-Converter (macro)
-![Alt text]https://img.shields.io/badge/license-Apache%202.0-red
 
-Project Name : intellij_macro
+### Project Name : intellij_macro
+
 
 ## 사용한 라이브러리
 * Apache POI 
@@ -15,5 +15,5 @@ Excel의 Sheet, Row, Column 값은 기본적으로 ***0부터 읽어야 합니�
 현재 엑셀에서의 데이터의 개수와 한글파일에서의 셀 개수는 수동으로 맞춰주셔야 합니다.
 
 > 추후 수정사항
-1. number 입력칸에 숫자만 입력 가능해야 하도록 수정예정
-2. ProgressBar 표시 예정
+>> 1. number 입력칸에 숫자만 입력 가능해야 하도록 수정예정
+>> 2. ProgressBar 표시 예정
