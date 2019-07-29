@@ -1,7 +1,8 @@
 # Excel-to-HWP-Converter (macro)
 
 #### Project Name : intellij_macro  / License : Apache 2.0
-
+#### 사용한 JDK 버전 : OpenJDK 12.0.2 - 해당 버전의 JRE가 있어야 정상적으로 실행이 됩니다. 
+> ##### OpenJDK - https://github.com/ojdkbuild/ojdkbuild
 
   
 > ## 사용한 라이브러리
